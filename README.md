@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @roshan-shrestha001
 - 👀 I’m interested in machine learning and AI
 - 🌱 I’m currently learning Applied AI
-- 💞️ I’m looking to collaborate on AI 
+- 💞️ I’m looking to collaborate on Web Development, Mobile App Development
 - 📫 How to reach me - Email: roshstha2006@gmail.com
                       - Instagram: roshannshresthaaaa
 - 😄 Pronouns: He/Him
